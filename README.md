@@ -1,4 +1,4 @@
-# Coefficients of Correlation Comparisson on Non-Monotonic Data
+# Coefficients of Correlation Comparison on Non-Monotonic Data
 Correlation coefficients r, ρ, τ vs ξ (Ksaai) on non-monotonic data.
 
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue.svg)](https://www.python.org/downloads/)
